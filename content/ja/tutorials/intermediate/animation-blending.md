@@ -32,10 +32,10 @@ var AnimationBlending = pc.createScript('animationBlending');
 
 AnimationBlending.states = {
     idle: {
-        animation: 'male.json'
+        animation: 'male'
     },
     punch: {
-        animation: 'male_uppercut_jab.json'
+        animation: 'male_uppercut_jab'
     }
 };
 
